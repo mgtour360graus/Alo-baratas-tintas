@@ -8,18 +8,18 @@
       <level preload="1" width="375" height="375" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="2">
+    <view pannorth="-78.4657" fovmode="2">
       <start tilt="0" pan="0" fov="100" projection="4"/>
       <flyin tilt="-90" pan="0" fov="170" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" fov="140" scaletofit="1"/>
     </view>
-    <userdata description="" longitude="" latitude="" tags="EDITADAS" author="" nodeid="node1" copyright="" heading="0" title="" comment="" datetime="" source="" info="" customnodeid=""/>
+    <userdata description="" longitude="-52.09922254" latitude="-32.03752355" tags="EDITADAS" author="" nodeid="node1" copyright="" heading="-78.4657" title="Alô Baratas Tintas | Loja General Neto" comment="" datetime="" source="" info="" customnodeid=""/>
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" wordwrap="1" width="180" height="20" background="1" backgroundalpha="1" textcolor="0x000000"/>
       <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot description="" tilt="0.29" pan="-315.93" id="Point01" url="{node2}" title="" target="24.0/0.0/108.2" skinid="ht_node"/>
-      <hotspot description="" tilt="0.63" pan="-3.21" id="Point02" url="{node3}" title="" target="-93.0/0.0/117.0" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="95.4818" id="Point01" url="{node2}" title="Alô Baratas Tintas | Loja General Neto" distance="8.66256" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="2.55802" id="Point02" url="{node3}" title="Alô Baratas Tintas | Loja General Neto" distance="6.36414" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" enabled="1" blendtime="1" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomspeed="2" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" delay="none"/>
@@ -34,18 +34,17 @@
       <level preload="1" width="375" height="375" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="2">
-      <start tilt="0" pan="0" fov="100" projection="4"/>
+    <view pannorth="-82.0302" fovmode="2">
+      <start tilt="0" pan="-6.53461" fov="92.4319" projection="4"/>
       <flyin tilt="-90" pan="0" fov="170" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" fov="140" scaletofit="1"/>
     </view>
-    <userdata description="" longitude="" latitude="" tags="EDITADAS" author="" nodeid="node2" copyright="" heading="0" title="" comment="" datetime="" source="" info="" customnodeid=""/>
+    <userdata description="" longitude="-52.09923223" latitude="-32.03760102" tags="EDITADAS" author="" nodeid="node2" copyright="" heading="-82.0302" title="Alô Baratas Tintas | Loja General Neto" comment="" datetime="" source="" info="" customnodeid=""/>
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" wordwrap="1" width="180" height="20" background="1" backgroundalpha="1" textcolor="0x000000"/>
       <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot description="" tilt="-0.21" pan="-42.21" id="Point01" url="{node3}" title="" target="-94.0/0.0/100.0" skinid="ht_node"/>
-      <hotspot description="" tilt="0" pan="-140.21" id="Point02" url="{node1}" title="" target="-139.0/0.0/108.2" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="-88.0827" id="Point01" url="{node1}" title="Alô Baratas Tintas | Loja General Neto" distance="8.66256" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" enabled="1" blendtime="1" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomspeed="2" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" delay="none"/>
@@ -60,19 +59,18 @@
       <level preload="1" width="375" height="375" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="2">
+    <view pannorth="-170.05" fovmode="2">
       <start tilt="0" pan="0" fov="100" projection="4"/>
       <flyin tilt="-90" pan="0" fov="170" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" fov="140" scaletofit="1"/>
     </view>
-    <userdata description="" longitude="" latitude="" tags="EDITADAS" author="" nodeid="node3" copyright="" heading="0" title="" comment="" datetime="" source="" info="" customnodeid=""/>
+    <userdata description="" longitude="-52.09928923" latitude="-32.03751462" tags="EDITADAS" author="" nodeid="node3" copyright="" heading="-170.05" title="Alô Baratas Tintas | Loja General Neto" comment="" datetime="" source="" info="" customnodeid=""/>
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" wordwrap="1" width="180" height="20" background="1" backgroundalpha="1" textcolor="0x000000"/>
       <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot description="" tilt="-0.18" pan="-21.98" id="Point01" url="{node4}" title="" target="1.0/0.0/100.0" skinid="ht_node"/>
-      <hotspot description="" tilt="-0.63" pan="-295.02" id="Point02" url="{node2}" title="" target="140.0/0.0/108.2" skinid="ht_node"/>
-      <hotspot description="" tilt="0.99" pan="-269.01" id="Point03" url="{node1}" title="" target="-177.0/0.0/117.0" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="-269.026" id="Point01" url="{node1}" title="Alô Baratas Tintas | Loja General Neto" distance="6.36414" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="0.635239" id="Point02" url="{node4}" title="Alô Baratas Tintas | Loja General Neto" distance="4.29201" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" enabled="1" blendtime="1" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomspeed="2" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" delay="none"/>
@@ -87,18 +85,18 @@
       <level preload="1" width="375" height="375" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="2">
+    <view pannorth="-125.142" fovmode="2">
       <start tilt="0" pan="0" fov="100" projection="4"/>
       <flyin tilt="-90" pan="0" fov="170" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" fov="140" scaletofit="1"/>
     </view>
-    <userdata description="" longitude="" latitude="" tags="EDITADAS" author="" nodeid="node4" copyright="" heading="0" title="" comment="" datetime="" source="" info="" customnodeid=""/>
+    <userdata description="" longitude="-52.09929660" latitude="-32.03755271" tags="EDITADAS" author="" nodeid="node4" copyright="" heading="-125.142" title="Alô Baratas Tintas | Loja General Neto" comment="" datetime="" source="" info="" customnodeid=""/>
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" wordwrap="1" width="180" height="20" background="1" backgroundalpha="1" textcolor="0x000000"/>
       <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot description="" tilt="-0.18" pan="-316.55" id="Point01" url="{node5}" title="" target="-174.0/0.0/108.2" skinid="ht_node"/>
-      <hotspot description="" tilt="0.2" pan="-155.13" id="Point02" url="{node3}" title="" target="163.0/0.0/108.2" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="-134.457" id="Point01" url="{node3}" title="Alô Baratas Tintas | Loja General Neto" distance="4.29201" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="44.4023" id="Point02" url="{node5}" title="Alô Baratas Tintas | Loja General Neto" distance="2.44123" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" enabled="1" blendtime="1" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomspeed="2" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" delay="none"/>
@@ -113,18 +111,18 @@
       <level preload="1" width="375" height="375" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="2">
+    <view pannorth="19.1515" fovmode="2">
       <start tilt="0" pan="0" fov="100" projection="4"/>
       <flyin tilt="-90" pan="0" fov="170" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" fov="140" scaletofit="1"/>
     </view>
-    <userdata description="" longitude="" latitude="" tags="EDITADAS" author="" nodeid="node5" copyright="" heading="0" title="" comment="" datetime="" source="" info="" customnodeid=""/>
+    <userdata description="" longitude="-52.09930130" latitude="-32.03757430" tags="EDITADAS" author="" nodeid="node5" copyright="" heading="19.1515" title="Alô Baratas Tintas | Loja General Neto" comment="" datetime="" source="" info="" customnodeid=""/>
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" wordwrap="1" width="180" height="20" background="1" backgroundalpha="1" textcolor="0x000000"/>
       <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot description="" tilt="0.42" pan="-173.16" id="Point01" url="{node6}" title="" target="-165.0/0.0/108.2" skinid="ht_node"/>
-      <hotspot description="" tilt="0" pan="-356.18" id="Point02" url="{node4}" title="" target="-139.0/0.0/108.2" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="8.69583" id="Point01" url="{node4}" title="Alô Baratas Tintas | Loja General Neto" distance="2.44123" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="190.671" id="Point02" url="{node6}" title="Alô Baratas Tintas | Loja General Neto" distance="1.50199" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" enabled="1" blendtime="1" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomspeed="2" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" delay="none"/>
@@ -139,17 +137,17 @@
       <level preload="1" width="408" height="408" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="2">
+    <view pannorth="22.2316" fovmode="2">
       <start tilt="0" pan="0" fov="100" projection="4"/>
       <flyin tilt="-90" pan="0" fov="170" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" fov="140" scaletofit="1"/>
     </view>
-    <userdata description="" longitude="" latitude="" tags="EDITADAS" author="" nodeid="node6" copyright="" heading="0" title="" comment="" datetime="" source="" info="" customnodeid=""/>
+    <userdata description="" longitude="-52.09930365" latitude="-32.03758766" tags="EDITADAS" author="" nodeid="node6" copyright="" heading="22.2316" title="Alô Baratas Tintas | Loja General Neto" comment="" datetime="" source="" info="" customnodeid=""/>
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" wordwrap="1" width="180" height="20" background="1" backgroundalpha="1" textcolor="0x000000"/>
       <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot description="" tilt="0.21" pan="-352.41" id="Point01" url="{node5}" title="" target="4.0/0.0/100.0" skinid="ht_node"/>
+      <hotspot description="" tilt="0" target="$fwd" pan="13.7508" id="Point01" url="{node5}" title="Alô Baratas Tintas | Loja General Neto" distance="1.50199" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" enabled="1" blendtime="1" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" zoomspeed="2" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" delay="none"/>
